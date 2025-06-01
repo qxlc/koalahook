@@ -10,7 +10,7 @@ from tkinter import filedialog as fd
 # colors because I cannot remember to change it everytime
 
 black = "\033[1;30m"
-titletext = " [-- KOALAHOOK --] Made by github.com/infamouskoala"
+titletext = " [-- BEST SKID EVER --] github.com/infamouskoala"
 red = "\033[1;31m"
 green = "\033[1;32m"
 yellow = "\033[1;33m"
@@ -22,17 +22,17 @@ invalidurl = f"{red}[! KOALAHOOK !]{white} Invalid url!"
 # test = "" test webhook, dont forget to remove :3
 
 socials = {
-    "github": {"link": "https://github.com/infamouskoala"},
-    "youtube": {"link": "https://youtube.com/infamouskoala"},
+,
 }  # You can update this list, and it will dynamically update.
 
 logo = """
-      __   __)             ____  ___)        
-     (, ) /         /)    (, /   /        /) 
-        /(   ____   // _     /---/  ______(/_ 
-     ) /  \_(_)(_(_(/_(_(_) /   (__(_)(_) /(__
-    (_/                  (_/                  
-    >> [Webhook Multitool developed by @infamouskoala]
+ ██████╗ ██╗  ██╗██╗      ██████╗
+██╔═══██╗╚██╗██╔╝██║     ██╔════╝
+██║   ██║ ╚███╔╝ ██║     ██║     
+██║▄▄ ██║ ██╔██╗ ██║     ██║     
+╚██████╔╝██╔╝ ██╗███████╗╚██████╗
+ ╚══▀▀═╝ ╚═╝  ╚═╝╚══════╝ ╚═════╝
+                                 
 """
 
 for platform, info in socials.items():
